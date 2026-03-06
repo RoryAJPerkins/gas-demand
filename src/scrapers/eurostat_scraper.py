@@ -60,14 +60,14 @@ class EurostatScraper:
             code = 'nrg_cb_gasm'
             gas_filter_pars = {
                 'startPeriod': 2016,
-                'unit': ['TJ_GCV'],
+                'unit': ['MIO_M3'],
                 'geo': self.countries
             }
             
             df_euro = eurostat.get_data_df(code, filter_pars=gas_filter_pars)
             
             # Process the data following your notebook's logic
-            df_euro = df_euro[df_euro['unit'] == 'TJ_GCV']
+            df_euro = df_euro[df_euro['unit'] == 'MIO_M3']
             df_euro = df_euro.rename(columns={'geo\\TIME_PERIOD': 'geo'})
             
             # Remove unnecessary columns
@@ -96,7 +96,7 @@ class EurostatScraper:
             result_df = pd.DataFrame({
                 'country': consumption['geo'],
                 'date': consumption['date'],
-                'demand': consumption['demand'] * 0.000277778,  # Convert to GWh
+                'demand': consumption['demand'], 
                 'type': 'total',
                 'source': self.source
             })

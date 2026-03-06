@@ -101,11 +101,11 @@ class SpainScraper:
             self.logger.info(f"Dataset saved to {output_file}")
             return True
             
-        except Exception as e:
-            self.logger.error(f"Error during scraping: {str(e)}")
+     #   except Exception as e:
+     #       self.logger.error(f"Error during scraping: {str(e)}")
             # Save whatever data we have in case of error
-            self.save_progress(current_date)
-            return False
+    #        self.save_progress(current_date)
+      #      return False
             
         finally:
             if self.driver:

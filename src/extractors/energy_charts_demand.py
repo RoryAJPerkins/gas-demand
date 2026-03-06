@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 class EnergyChartsDemandExtractor:
     def __init__(self):
         self.source = 'energy-charts'
-        self.raw_file = 'src/data/raw/power_data.csv'
+        self.raw_file = 'src/data/raw/eurostat_gfp.csv'
 
     def get_demand_data(self) -> pd.DataFrame:
         """
@@ -32,7 +32,7 @@ class EnergyChartsDemandExtractor:
             df['source'] = self.source
 
             #convert to gas-burn
-            df['demand'] = df['demand'] * 2
+            #df['demand'] = df['demand'] * 2
             
             return df[['country', 'date', 'demand', 'type', 'source']]
             

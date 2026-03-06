@@ -1,0 +1,19 @@
+﻿type,Headline definition
+EXP,Exports of natural gas to other countries
+FLARE,Gas flared (burned off during production/processing)
+IC_CAL,Inland consumption (calculated from balance identity)
+IC_OBS,Inland consumption (observed/measured directly)
+IMP,Imports of natural gas from abroad
+INTMARB,International maritime bunkers (fuel supplied to international shipping)
+IPRD,Indigenous (domestic) production of natural gas
+IPRD_AG,Indigenous production of associated gas (produced alongside oil)
+IPRD_CG,Indigenous production of colliery gas (coal mine methane)
+IPRD_NAG,Indigenous production of natural gas (main conventional component)
+STATDIFF,Statistical difference (imbalance between supply and demand reporting)
+STK_CHG,Stock changes (net withdrawals/injections from storage)
+STK_CHG_CG,Stock changes specifically for colliery gas
+TOS,Total energy supply (overall gas available before use)
+TOS_COAL,Total energy supply from coal-derived gases
+TOS_OIL,Total energy supply from oil-derived gases
+TOS_REN,"Total energy supply from renewable gases (e.g., biomethane)"
+VENT,Gas vented (released directly into the atmosphere)

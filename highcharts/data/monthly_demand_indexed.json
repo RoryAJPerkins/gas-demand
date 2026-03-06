@@ -380,6 +380,41 @@
         "group_value": "Austria"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 78.24,
+        "group_value": "Austria"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 81.59,
+        "group_value": "Austria"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 77.46,
+        "group_value": "Austria"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 69.02,
+        "group_value": "Austria"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 71.1,
+        "group_value": "Austria"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 85.27,
+        "group_value": "Austria"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 86.25,
+        "group_value": "Austria"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 103.63,
         "group_value": "Bulgaria"
@@ -757,6 +792,26 @@
     {
         "x_value": "04/2025",
         "y_value": 84.55,
+        "group_value": "Bulgaria"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 80.61,
+        "group_value": "Bulgaria"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 28.62,
+        "group_value": "Bulgaria"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 40.12,
+        "group_value": "Bulgaria"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 90.6,
         "group_value": "Bulgaria"
     },
     {
@@ -1140,6 +1195,41 @@
         "group_value": "Czech Republic"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 78.41,
+        "group_value": "Czech Republic"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 75.92,
+        "group_value": "Czech Republic"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 74.77,
+        "group_value": "Czech Republic"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 71.45,
+        "group_value": "Czech Republic"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 73.85,
+        "group_value": "Czech Republic"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 80.92,
+        "group_value": "Czech Republic"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 0.0,
+        "group_value": "Czech Republic"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 102.29,
         "group_value": "Germany"
@@ -1517,6 +1607,41 @@
     {
         "x_value": "04/2025",
         "y_value": 76.67,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 72.9,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 78.13,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 77.6,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 78.99,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 82.73,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 90.58,
+        "group_value": "Germany"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 92.39,
         "group_value": "Germany"
     },
     {
@@ -1900,6 +2025,41 @@
         "group_value": "Denmark"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 60.0,
+        "group_value": "Denmark"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 80.1,
+        "group_value": "Denmark"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 75.64,
+        "group_value": "Denmark"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 68.08,
+        "group_value": "Denmark"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 79.32,
+        "group_value": "Denmark"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 81.94,
+        "group_value": "Denmark"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 82.71,
+        "group_value": "Denmark"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 116.75,
         "group_value": "Estonia"
@@ -2280,379 +2440,24 @@
         "group_value": "Estonia"
     },
     {
-        "x_value": "01/2019",
-        "y_value": 101.45,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "02/2019",
-        "y_value": 105.38,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2019",
-        "y_value": 100.47,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2019",
-        "y_value": 107.47,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "05/2019",
-        "y_value": 114.01,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "06/2019",
-        "y_value": 109.97,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "08/2019",
-        "y_value": 111.01,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "09/2019",
-        "y_value": 102.93,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "10/2019",
-        "y_value": 110.1,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "11/2019",
-        "y_value": 99.22,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "12/2019",
-        "y_value": 95.05,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "01/2020",
-        "y_value": 100.62,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "02/2020",
-        "y_value": 103.32,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2020",
-        "y_value": 95.63,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2020",
-        "y_value": 83.11,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "05/2020",
-        "y_value": 84.59,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "06/2020",
-        "y_value": 92.15,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "07/2020",
-        "y_value": 106.04,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "08/2020",
-        "y_value": 97.13,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "09/2020",
-        "y_value": 96.8,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "10/2020",
-        "y_value": 93.46,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "11/2020",
-        "y_value": 89.96,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "12/2020",
-        "y_value": 98.33,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "01/2021",
-        "y_value": 97.92,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "02/2021",
-        "y_value": 91.3,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2021",
-        "y_value": 103.9,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2021",
-        "y_value": 109.42,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "05/2021",
-        "y_value": 101.4,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "06/2021",
-        "y_value": 97.88,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "07/2021",
-        "y_value": 93.96,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "08/2021",
-        "y_value": 91.86,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "09/2021",
-        "y_value": 100.28,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "10/2021",
-        "y_value": 96.45,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "11/2021",
-        "y_value": 110.82,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "12/2021",
-        "y_value": 106.62,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "01/2022",
-        "y_value": 105.74,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "02/2022",
-        "y_value": 111.89,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2022",
-        "y_value": 110.23,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2022",
-        "y_value": 95.06,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "05/2022",
-        "y_value": 96.74,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "06/2022",
-        "y_value": 104.28,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "07/2022",
-        "y_value": 105.2,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "08/2022",
-        "y_value": 95.81,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "09/2022",
-        "y_value": 93.22,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "10/2022",
-        "y_value": 88.62,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "11/2022",
-        "y_value": 77.61,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "12/2022",
-        "y_value": 77.06,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "01/2023",
-        "y_value": 74.89,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "02/2023",
-        "y_value": 107.96,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2023",
-        "y_value": 92.59,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2023",
-        "y_value": 83.86,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "05/2023",
-        "y_value": 92.26,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "06/2023",
-        "y_value": 93.66,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "07/2023",
-        "y_value": 88.42,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "08/2023",
-        "y_value": 84.6,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "09/2023",
-        "y_value": 87.42,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "10/2023",
-        "y_value": 81.5,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "11/2023",
+        "x_value": "05/2025",
         "y_value": 72.29,
-        "group_value": "Spain"
+        "group_value": "Estonia"
     },
     {
-        "x_value": "12/2023",
-        "y_value": 83.89,
-        "group_value": "Spain"
+        "x_value": "06/2025",
+        "y_value": 28.3,
+        "group_value": "Estonia"
     },
     {
-        "x_value": "01/2024",
-        "y_value": 84.81,
-        "group_value": "Spain"
+        "x_value": "10/2025",
+        "y_value": 29.7,
+        "group_value": "Estonia"
     },
     {
-        "x_value": "02/2024",
-        "y_value": 89.66,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2024",
-        "y_value": 86.52,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2024",
-        "y_value": 79.75,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "05/2024",
-        "y_value": 84.51,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "06/2024",
-        "y_value": 75.09,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "07/2024",
-        "y_value": 79.89,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "08/2024",
-        "y_value": 76.56,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "09/2024",
-        "y_value": 75.07,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "10/2024",
-        "y_value": 78.64,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "11/2024",
-        "y_value": 81.52,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "12/2024",
-        "y_value": 96.73,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "01/2025",
-        "y_value": 82.74,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "02/2025",
-        "y_value": 92.24,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "03/2025",
-        "y_value": 91.72,
-        "group_value": "Spain"
-    },
-    {
-        "x_value": "04/2025",
-        "y_value": 81.63,
-        "group_value": "Spain"
+        "x_value": "11/2025",
+        "y_value": 86.03,
+        "group_value": "Estonia"
     },
     {
         "x_value": "01/2019",
@@ -2911,7 +2716,7 @@
     },
     {
         "x_value": "04/2023",
-        "y_value": 45.18,
+        "y_value": 37.95,
         "group_value": "Finland"
     },
     {
@@ -2931,7 +2736,7 @@
     },
     {
         "x_value": "08/2023",
-        "y_value": 87.63,
+        "y_value": 87.02,
         "group_value": "Finland"
     },
     {
@@ -2941,32 +2746,32 @@
     },
     {
         "x_value": "10/2023",
-        "y_value": 82.83,
+        "y_value": 161.62,
         "group_value": "Finland"
     },
     {
         "x_value": "11/2023",
-        "y_value": 87.23,
+        "y_value": 89.36,
         "group_value": "Finland"
     },
     {
         "x_value": "12/2023",
-        "y_value": 74.52,
+        "y_value": 78.73,
         "group_value": "Finland"
     },
     {
         "x_value": "01/2024",
-        "y_value": 69.84,
+        "y_value": 70.12,
         "group_value": "Finland"
     },
     {
         "x_value": "02/2024",
-        "y_value": 70.28,
+        "y_value": 70.61,
         "group_value": "Finland"
     },
     {
         "x_value": "03/2024",
-        "y_value": 67.55,
+        "y_value": 66.46,
         "group_value": "Finland"
     },
     {
@@ -2996,22 +2801,22 @@
     },
     {
         "x_value": "09/2024",
-        "y_value": 73.84,
+        "y_value": 72.81,
         "group_value": "Finland"
     },
     {
         "x_value": "10/2024",
-        "y_value": 81.82,
+        "y_value": 79.29,
         "group_value": "Finland"
     },
     {
         "x_value": "11/2024",
-        "y_value": 65.43,
+        "y_value": 60.64,
         "group_value": "Finland"
     },
     {
         "x_value": "12/2024",
-        "y_value": 64.97,
+        "y_value": 69.94,
         "group_value": "Finland"
     },
     {
@@ -3021,7 +2826,7 @@
     },
     {
         "x_value": "02/2025",
-        "y_value": 51.41,
+        "y_value": 50.11,
         "group_value": "Finland"
     },
     {
@@ -3032,6 +2837,41 @@
     {
         "x_value": "04/2025",
         "y_value": 66.42,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 86.77,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 59.62,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 74.39,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 61.46,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 31.5,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 59.6,
+        "group_value": "Finland"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 0.0,
         "group_value": "Finland"
     },
     {
@@ -3415,6 +3255,41 @@
         "group_value": "Greece"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 106.95,
+        "group_value": "Greece"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 110.54,
+        "group_value": "Greece"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 106.63,
+        "group_value": "Greece"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 95.84,
+        "group_value": "Greece"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 96.79,
+        "group_value": "Greece"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 116.28,
+        "group_value": "Greece"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 0.0,
+        "group_value": "Greece"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 107.77,
         "group_value": "Croatia"
@@ -3792,6 +3667,26 @@
     {
         "x_value": "04/2025",
         "y_value": 98.21,
+        "group_value": "Croatia"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 62.61,
+        "group_value": "Croatia"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 15.93,
+        "group_value": "Croatia"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 38.35,
+        "group_value": "Croatia"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 97.73,
         "group_value": "Croatia"
     },
     {
@@ -4175,323 +4070,378 @@
         "group_value": "Lithuania"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 71.82,
+        "group_value": "Lithuania"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 52.74,
+        "group_value": "Lithuania"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 33.19,
+        "group_value": "Lithuania"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 73.64,
+        "group_value": "Lithuania"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 92.41,
+        "group_value": "Lithuania"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 77.91,
+        "group_value": "Lithuania"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 0.0,
+        "group_value": "Lithuania"
+    },
+    {
         "x_value": "01/2020",
-        "y_value": 96.99,
+        "y_value": 79.88,
         "group_value": "Latvia"
     },
     {
         "x_value": "02/2020",
-        "y_value": 107.87,
+        "y_value": 80.5,
         "group_value": "Latvia"
     },
     {
         "x_value": "03/2020",
-        "y_value": 118.77,
+        "y_value": 88.89,
         "group_value": "Latvia"
     },
     {
         "x_value": "04/2020",
-        "y_value": 137.23,
+        "y_value": 100.58,
         "group_value": "Latvia"
     },
     {
         "x_value": "05/2020",
-        "y_value": 145.89,
+        "y_value": 121.37,
         "group_value": "Latvia"
     },
     {
         "x_value": "06/2020",
-        "y_value": 131.14,
+        "y_value": 123.73,
         "group_value": "Latvia"
     },
     {
         "x_value": "07/2020",
-        "y_value": 89.36,
+        "y_value": 84.85,
         "group_value": "Latvia"
     },
     {
         "x_value": "08/2020",
-        "y_value": 132.79,
+        "y_value": 144.64,
         "group_value": "Latvia"
     },
     {
         "x_value": "09/2020",
-        "y_value": 91.12,
+        "y_value": 94.2,
         "group_value": "Latvia"
     },
     {
         "x_value": "10/2020",
-        "y_value": 118.31,
+        "y_value": 102.44,
         "group_value": "Latvia"
     },
     {
         "x_value": "11/2020",
-        "y_value": 131.18,
+        "y_value": 102.52,
         "group_value": "Latvia"
     },
     {
         "x_value": "12/2020",
-        "y_value": 125.2,
+        "y_value": 90.86,
         "group_value": "Latvia"
     },
     {
         "x_value": "01/2021",
-        "y_value": 145.86,
+        "y_value": 120.12,
         "group_value": "Latvia"
     },
     {
         "x_value": "02/2021",
-        "y_value": 160.11,
+        "y_value": 119.5,
         "group_value": "Latvia"
     },
     {
         "x_value": "03/2021",
-        "y_value": 148.46,
+        "y_value": 111.11,
         "group_value": "Latvia"
     },
     {
         "x_value": "04/2021",
-        "y_value": 135.64,
+        "y_value": 99.42,
         "group_value": "Latvia"
     },
     {
         "x_value": "05/2021",
-        "y_value": 94.52,
+        "y_value": 78.63,
         "group_value": "Latvia"
     },
     {
         "x_value": "06/2021",
-        "y_value": 80.84,
+        "y_value": 76.27,
         "group_value": "Latvia"
     },
     {
         "x_value": "07/2021",
-        "y_value": 121.28,
+        "y_value": 115.15,
         "group_value": "Latvia"
     },
     {
         "x_value": "08/2021",
-        "y_value": 50.82,
+        "y_value": 55.36,
         "group_value": "Latvia"
     },
     {
         "x_value": "09/2021",
-        "y_value": 102.34,
+        "y_value": 105.8,
         "group_value": "Latvia"
     },
     {
         "x_value": "10/2021",
-        "y_value": 112.68,
+        "y_value": 97.56,
         "group_value": "Latvia"
     },
     {
         "x_value": "11/2021",
-        "y_value": 124.73,
+        "y_value": 97.48,
         "group_value": "Latvia"
     },
     {
         "x_value": "12/2021",
-        "y_value": 150.39,
+        "y_value": 109.14,
         "group_value": "Latvia"
     },
     {
         "x_value": "01/2022",
-        "y_value": 115.04,
+        "y_value": 94.74,
         "group_value": "Latvia"
     },
     {
         "x_value": "02/2022",
-        "y_value": 92.7,
+        "y_value": 69.18,
         "group_value": "Latvia"
     },
     {
         "x_value": "03/2022",
-        "y_value": 101.37,
+        "y_value": 75.86,
         "group_value": "Latvia"
     },
     {
         "x_value": "04/2022",
-        "y_value": 106.91,
+        "y_value": 78.36,
         "group_value": "Latvia"
     },
     {
         "x_value": "05/2022",
-        "y_value": 65.75,
+        "y_value": 54.7,
         "group_value": "Latvia"
     },
     {
         "x_value": "06/2022",
-        "y_value": 34.13,
+        "y_value": 32.2,
         "group_value": "Latvia"
     },
     {
         "x_value": "07/2022",
-        "y_value": 38.3,
+        "y_value": 36.36,
         "group_value": "Latvia"
     },
     {
         "x_value": "08/2022",
-        "y_value": 70.49,
+        "y_value": 76.79,
         "group_value": "Latvia"
     },
     {
         "x_value": "09/2022",
-        "y_value": 51.87,
+        "y_value": 53.62,
         "group_value": "Latvia"
     },
     {
         "x_value": "10/2022",
-        "y_value": 40.85,
+        "y_value": 35.37,
         "group_value": "Latvia"
     },
     {
         "x_value": "11/2022",
-        "y_value": 117.2,
+        "y_value": 91.6,
         "group_value": "Latvia"
     },
     {
         "x_value": "12/2022",
-        "y_value": 125.98,
+        "y_value": 91.43,
         "group_value": "Latvia"
     },
     {
         "x_value": "01/2023",
-        "y_value": 84.21,
+        "y_value": 69.35,
         "group_value": "Latvia"
     },
     {
         "x_value": "02/2023",
-        "y_value": 101.12,
+        "y_value": 75.47,
         "group_value": "Latvia"
     },
     {
         "x_value": "03/2023",
-        "y_value": 105.46,
+        "y_value": 78.93,
         "group_value": "Latvia"
     },
     {
         "x_value": "04/2023",
-        "y_value": 63.83,
+        "y_value": 46.78,
         "group_value": "Latvia"
     },
     {
         "x_value": "05/2023",
-        "y_value": 41.1,
+        "y_value": 34.19,
         "group_value": "Latvia"
     },
     {
         "x_value": "06/2023",
-        "y_value": 55.69,
+        "y_value": 52.54,
         "group_value": "Latvia"
     },
     {
         "x_value": "07/2023",
-        "y_value": 40.43,
+        "y_value": 38.38,
         "group_value": "Latvia"
     },
     {
         "x_value": "08/2023",
-        "y_value": 60.66,
+        "y_value": 66.07,
         "group_value": "Latvia"
     },
     {
         "x_value": "09/2023",
-        "y_value": 68.69,
+        "y_value": 71.01,
         "group_value": "Latvia"
     },
     {
         "x_value": "10/2023",
-        "y_value": 94.37,
+        "y_value": 81.71,
         "group_value": "Latvia"
     },
     {
         "x_value": "11/2023",
-        "y_value": 108.6,
+        "y_value": 84.87,
         "group_value": "Latvia"
     },
     {
         "x_value": "12/2023",
-        "y_value": 96.06,
+        "y_value": 69.71,
         "group_value": "Latvia"
     },
     {
         "x_value": "01/2024",
-        "y_value": 145.11,
+        "y_value": 119.5,
         "group_value": "Latvia"
     },
     {
         "x_value": "02/2024",
-        "y_value": 112.08,
+        "y_value": 83.65,
         "group_value": "Latvia"
     },
     {
         "x_value": "03/2024",
-        "y_value": 93.17,
+        "y_value": 69.73,
         "group_value": "Latvia"
     },
     {
         "x_value": "04/2024",
-        "y_value": 81.38,
+        "y_value": 59.65,
         "group_value": "Latvia"
     },
     {
         "x_value": "05/2024",
-        "y_value": 43.15,
+        "y_value": 35.9,
         "group_value": "Latvia"
     },
     {
         "x_value": "06/2024",
-        "y_value": 26.95,
+        "y_value": 25.42,
         "group_value": "Latvia"
     },
     {
         "x_value": "07/2024",
-        "y_value": 74.47,
+        "y_value": 70.71,
         "group_value": "Latvia"
     },
     {
         "x_value": "08/2024",
-        "y_value": 70.49,
+        "y_value": 76.79,
         "group_value": "Latvia"
     },
     {
         "x_value": "09/2024",
-        "y_value": 70.09,
+        "y_value": 72.46,
         "group_value": "Latvia"
     },
     {
         "x_value": "10/2024",
-        "y_value": 80.28,
+        "y_value": 69.51,
         "group_value": "Latvia"
     },
     {
         "x_value": "11/2024",
-        "y_value": 100.0,
+        "y_value": 78.15,
         "group_value": "Latvia"
     },
     {
         "x_value": "12/2024",
-        "y_value": 80.31,
+        "y_value": 58.29,
         "group_value": "Latvia"
     },
     {
         "x_value": "01/2025",
-        "y_value": 69.17,
+        "y_value": 56.97,
         "group_value": "Latvia"
     },
     {
         "x_value": "02/2025",
-        "y_value": 139.04,
+        "y_value": 103.77,
         "group_value": "Latvia"
     },
     {
         "x_value": "03/2025",
-        "y_value": 97.27,
+        "y_value": 72.8,
         "group_value": "Latvia"
     },
     {
         "x_value": "04/2025",
-        "y_value": 87.77,
+        "y_value": 64.33,
+        "group_value": "Latvia"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 56.41,
+        "group_value": "Latvia"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 11.86,
+        "group_value": "Latvia"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 36.59,
+        "group_value": "Latvia"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 88.24,
         "group_value": "Latvia"
     },
     {
@@ -4875,6 +4825,26 @@
         "group_value": "Poland"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 101.71,
+        "group_value": "Poland"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 38.03,
+        "group_value": "Poland"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 46.79,
+        "group_value": "Poland"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 117.17,
+        "group_value": "Poland"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 91.25,
         "group_value": "Sweden"
@@ -5252,6 +5222,41 @@
     {
         "x_value": "04/2025",
         "y_value": 61.13,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 58.27,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 65.08,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 73.42,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 79.86,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 61.66,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 62.6,
+        "group_value": "Sweden"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 0.0,
         "group_value": "Sweden"
     },
     {
@@ -5635,6 +5640,26 @@
         "group_value": "Slovenia"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 109.5,
+        "group_value": "Slovenia"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 47.47,
+        "group_value": "Slovenia"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 47.11,
+        "group_value": "Slovenia"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 113.0,
+        "group_value": "Slovenia"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 102.47,
         "group_value": "Slovakia"
@@ -6015,6 +6040,41 @@
         "group_value": "Slovakia"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 74.71,
+        "group_value": "Slovakia"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 70.64,
+        "group_value": "Slovakia"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 83.84,
+        "group_value": "Slovakia"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 87.7,
+        "group_value": "Slovakia"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 89.2,
+        "group_value": "Slovakia"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 98.3,
+        "group_value": "Slovakia"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 0.0,
+        "group_value": "Slovakia"
+    },
+    {
         "x_value": "02/2020",
         "y_value": 98.4,
         "group_value": "United Kingdom"
@@ -6327,6 +6387,41 @@
     {
         "x_value": "04/2025",
         "y_value": 67.8,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 59.5,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 66.56,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 67.81,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 67.85,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 72.57,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 81.36,
+        "group_value": "United Kingdom"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 84.17,
         "group_value": "United Kingdom"
     },
     {
@@ -6710,6 +6805,26 @@
         "group_value": "Belgium"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 68.03,
+        "group_value": "Belgium"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 26.51,
+        "group_value": "Belgium"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 32.26,
+        "group_value": "Belgium"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 77.49,
+        "group_value": "Belgium"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 106.36,
         "group_value": "France"
@@ -7006,7 +7121,7 @@
     },
     {
         "x_value": "12/2023",
-        "y_value": 79.72,
+        "y_value": 79.61,
         "group_value": "France"
     },
     {
@@ -7056,12 +7171,12 @@
     },
     {
         "x_value": "10/2024",
-        "y_value": 66.63,
+        "y_value": 66.6,
         "group_value": "France"
     },
     {
         "x_value": "11/2024",
-        "y_value": 75.55,
+        "y_value": 75.53,
         "group_value": "France"
     },
     {
@@ -7086,7 +7201,42 @@
     },
     {
         "x_value": "04/2025",
-        "y_value": 64.67,
+        "y_value": 64.7,
+        "group_value": "France"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 57.78,
+        "group_value": "France"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 63.23,
+        "group_value": "France"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 63.6,
+        "group_value": "France"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 65.56,
+        "group_value": "France"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 68.87,
+        "group_value": "France"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 69.49,
+        "group_value": "France"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 69.57,
         "group_value": "France"
     },
     {
@@ -7470,6 +7620,26 @@
         "group_value": "Hungary"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 80.25,
+        "group_value": "Hungary"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 29.86,
+        "group_value": "Hungary"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 35.71,
+        "group_value": "Hungary"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 87.66,
+        "group_value": "Hungary"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 105.18,
         "group_value": "Italy"
@@ -7847,6 +8017,26 @@
     {
         "x_value": "04/2025",
         "y_value": 80.16,
+        "group_value": "Italy"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 80.72,
+        "group_value": "Italy"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 27.65,
+        "group_value": "Italy"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 37.27,
+        "group_value": "Italy"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 92.25,
         "group_value": "Italy"
     },
     {
@@ -8230,64 +8420,24 @@
         "group_value": "Luxembourg"
     },
     {
-        "x_value": "01/2019",
-        "y_value": 57.14,
-        "group_value": "Latvia"
+        "x_value": "05/2025",
+        "y_value": 68.85,
+        "group_value": "Luxembourg"
     },
     {
-        "x_value": "02/2019",
-        "y_value": 32.02,
-        "group_value": "Latvia"
+        "x_value": "06/2025",
+        "y_value": 29.77,
+        "group_value": "Luxembourg"
     },
     {
-        "x_value": "03/2019",
-        "y_value": 32.76,
-        "group_value": "Latvia"
+        "x_value": "10/2025",
+        "y_value": 34.12,
+        "group_value": "Luxembourg"
     },
     {
-        "x_value": "04/2019",
-        "y_value": 27.13,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "05/2019",
-        "y_value": 59.59,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "06/2019",
-        "y_value": 88.02,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "07/2019",
-        "y_value": 89.36,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "08/2019",
-        "y_value": 116.39,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "09/2019",
-        "y_value": 106.54,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "10/2019",
-        "y_value": 69.01,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "11/2019",
-        "y_value": 44.09,
-        "group_value": "Latvia"
-    },
-    {
-        "x_value": "12/2019",
-        "y_value": 24.41,
-        "group_value": "Latvia"
+        "x_value": "11/2025",
+        "y_value": 79.93,
+        "group_value": "Luxembourg"
     },
     {
         "x_value": "01/2019",
@@ -8667,6 +8817,26 @@
     {
         "x_value": "04/2025",
         "y_value": 66.22,
+        "group_value": "Netherlands"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 60.45,
+        "group_value": "Netherlands"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 24.4,
+        "group_value": "Netherlands"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 27.62,
+        "group_value": "Netherlands"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 78.61,
         "group_value": "Netherlands"
     },
     {
@@ -9050,6 +9220,26 @@
         "group_value": "Portugal"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 79.28,
+        "group_value": "Portugal"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 22.86,
+        "group_value": "Portugal"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 25.73,
+        "group_value": "Portugal"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 69.35,
+        "group_value": "Portugal"
+    },
+    {
         "x_value": "01/2019",
         "y_value": 104.37,
         "group_value": "Romania"
@@ -9430,383 +9620,438 @@
         "group_value": "Romania"
     },
     {
+        "x_value": "05/2025",
+        "y_value": 85.84,
+        "group_value": "Romania"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 29.21,
+        "group_value": "Romania"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 40.99,
+        "group_value": "Romania"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 86.29,
+        "group_value": "Romania"
+    },
+    {
         "x_value": "01/2019",
-        "y_value": 103.41,
+        "y_value": 103.46,
         "group_value": "EU"
     },
     {
         "x_value": "02/2019",
-        "y_value": 98.72,
+        "y_value": 98.15,
         "group_value": "EU"
     },
     {
         "x_value": "03/2019",
-        "y_value": 94.35,
+        "y_value": 93.8,
         "group_value": "EU"
     },
     {
         "x_value": "04/2019",
-        "y_value": 98.45,
+        "y_value": 97.53,
         "group_value": "EU"
     },
     {
         "x_value": "05/2019",
-        "y_value": 106.36,
+        "y_value": 105.43,
         "group_value": "EU"
     },
     {
         "x_value": "06/2019",
-        "y_value": 98.64,
+        "y_value": 96.84,
         "group_value": "EU"
     },
     {
         "x_value": "07/2019",
-        "y_value": 101.39,
+        "y_value": 99.84,
         "group_value": "EU"
     },
     {
         "x_value": "08/2019",
-        "y_value": 102.25,
+        "y_value": 100.65,
         "group_value": "EU"
     },
     {
         "x_value": "09/2019",
-        "y_value": 102.26,
+        "y_value": 101.95,
         "group_value": "EU"
     },
     {
         "x_value": "10/2019",
-        "y_value": 100.32,
+        "y_value": 99.18,
         "group_value": "EU"
     },
     {
         "x_value": "11/2019",
-        "y_value": 99.04,
+        "y_value": 98.95,
         "group_value": "EU"
     },
     {
         "x_value": "12/2019",
-        "y_value": 95.11,
+        "y_value": 95.06,
         "group_value": "EU"
     },
     {
         "x_value": "01/2020",
-        "y_value": 95.1,
+        "y_value": 94.72,
         "group_value": "EU"
     },
     {
         "x_value": "02/2020",
-        "y_value": 97.05,
+        "y_value": 96.61,
         "group_value": "EU"
     },
     {
         "x_value": "03/2020",
-        "y_value": 97.45,
+        "y_value": 97.63,
         "group_value": "EU"
     },
     {
         "x_value": "04/2020",
-        "y_value": 83.37,
+        "y_value": 83.41,
         "group_value": "EU"
     },
     {
         "x_value": "05/2020",
-        "y_value": 90.12,
+        "y_value": 90.77,
         "group_value": "EU"
     },
     {
         "x_value": "06/2020",
-        "y_value": 101.56,
+        "y_value": 103.0,
         "group_value": "EU"
     },
     {
         "x_value": "07/2020",
-        "y_value": 103.75,
+        "y_value": 104.34,
         "group_value": "EU"
     },
     {
         "x_value": "08/2020",
-        "y_value": 103.6,
+        "y_value": 104.73,
         "group_value": "EU"
     },
     {
         "x_value": "09/2020",
-        "y_value": 101.99,
+        "y_value": 102.82,
         "group_value": "EU"
     },
     {
         "x_value": "10/2020",
-        "y_value": 102.46,
+        "y_value": 103.47,
         "group_value": "EU"
     },
     {
         "x_value": "11/2020",
-        "y_value": 97.51,
+        "y_value": 98.25,
         "group_value": "EU"
     },
     {
         "x_value": "12/2020",
-        "y_value": 101.69,
+        "y_value": 101.99,
         "group_value": "EU"
     },
     {
         "x_value": "01/2021",
-        "y_value": 101.49,
+        "y_value": 101.82,
         "group_value": "EU"
     },
     {
         "x_value": "02/2021",
-        "y_value": 104.23,
+        "y_value": 105.24,
         "group_value": "EU"
     },
     {
         "x_value": "03/2021",
-        "y_value": 108.2,
+        "y_value": 108.58,
         "group_value": "EU"
     },
     {
         "x_value": "04/2021",
-        "y_value": 118.18,
+        "y_value": 119.07,
         "group_value": "EU"
     },
     {
         "x_value": "05/2021",
-        "y_value": 103.52,
+        "y_value": 103.8,
         "group_value": "EU"
     },
     {
         "x_value": "06/2021",
-        "y_value": 99.8,
+        "y_value": 100.16,
         "group_value": "EU"
     },
     {
         "x_value": "07/2021",
-        "y_value": 94.86,
+        "y_value": 95.82,
         "group_value": "EU"
     },
     {
         "x_value": "08/2021",
-        "y_value": 94.15,
+        "y_value": 94.61,
         "group_value": "EU"
     },
     {
         "x_value": "09/2021",
-        "y_value": 95.75,
+        "y_value": 95.23,
         "group_value": "EU"
     },
     {
         "x_value": "10/2021",
-        "y_value": 97.22,
+        "y_value": 97.35,
         "group_value": "EU"
     },
     {
         "x_value": "11/2021",
-        "y_value": 103.45,
+        "y_value": 102.8,
         "group_value": "EU"
     },
     {
         "x_value": "12/2021",
-        "y_value": 103.2,
+        "y_value": 102.95,
         "group_value": "EU"
     },
     {
         "x_value": "01/2022",
-        "y_value": 94.36,
+        "y_value": 93.51,
         "group_value": "EU"
     },
     {
         "x_value": "02/2022",
-        "y_value": 94.1,
+        "y_value": 92.79,
         "group_value": "EU"
     },
     {
         "x_value": "03/2022",
-        "y_value": 98.8,
+        "y_value": 97.9,
         "group_value": "EU"
     },
     {
         "x_value": "04/2022",
-        "y_value": 96.09,
+        "y_value": 96.22,
         "group_value": "EU"
     },
     {
         "x_value": "05/2022",
-        "y_value": 83.63,
+        "y_value": 82.21,
         "group_value": "EU"
     },
     {
         "x_value": "06/2022",
-        "y_value": 92.59,
+        "y_value": 90.99,
         "group_value": "EU"
     },
     {
         "x_value": "07/2022",
-        "y_value": 86.63,
+        "y_value": 84.72,
         "group_value": "EU"
     },
     {
         "x_value": "08/2022",
-        "y_value": 84.85,
+        "y_value": 83.26,
         "group_value": "EU"
     },
     {
         "x_value": "09/2022",
-        "y_value": 84.38,
+        "y_value": 83.25,
         "group_value": "EU"
     },
     {
         "x_value": "10/2022",
-        "y_value": 73.33,
+        "y_value": 71.76,
         "group_value": "EU"
     },
     {
         "x_value": "11/2022",
-        "y_value": 76.53,
+        "y_value": 76.46,
         "group_value": "EU"
     },
     {
         "x_value": "12/2022",
-        "y_value": 87.19,
+        "y_value": 88.02,
         "group_value": "EU"
     },
     {
         "x_value": "01/2023",
-        "y_value": 74.84,
+        "y_value": 74.87,
         "group_value": "EU"
     },
     {
         "x_value": "02/2023",
-        "y_value": 88.41,
+        "y_value": 86.96,
         "group_value": "EU"
     },
     {
         "x_value": "03/2023",
-        "y_value": 84.95,
+        "y_value": 84.36,
         "group_value": "EU"
     },
     {
         "x_value": "04/2023",
-        "y_value": 87.24,
+        "y_value": 87.54,
         "group_value": "EU"
     },
     {
         "x_value": "05/2023",
-        "y_value": 77.65,
+        "y_value": 76.07,
         "group_value": "EU"
     },
     {
         "x_value": "06/2023",
-        "y_value": 83.55,
+        "y_value": 82.17,
         "group_value": "EU"
     },
     {
         "x_value": "07/2023",
-        "y_value": 80.69,
+        "y_value": 80.28,
         "group_value": "EU"
     },
     {
         "x_value": "08/2023",
-        "y_value": 82.59,
+        "y_value": 82.37,
         "group_value": "EU"
     },
     {
         "x_value": "09/2023",
-        "y_value": 78.42,
+        "y_value": 77.26,
         "group_value": "EU"
     },
     {
         "x_value": "10/2023",
-        "y_value": 74.82,
+        "y_value": 74.69,
         "group_value": "EU"
     },
     {
         "x_value": "11/2023",
-        "y_value": 81.0,
+        "y_value": 81.86,
         "group_value": "EU"
     },
     {
         "x_value": "12/2023",
-        "y_value": 83.32,
+        "y_value": 83.3,
         "group_value": "EU"
     },
     {
         "x_value": "01/2024",
-        "y_value": 85.45,
+        "y_value": 85.54,
         "group_value": "EU"
     },
     {
         "x_value": "02/2024",
-        "y_value": 78.61,
+        "y_value": 77.8,
         "group_value": "EU"
     },
     {
         "x_value": "03/2024",
-        "y_value": 78.69,
+        "y_value": 78.07,
         "group_value": "EU"
     },
     {
         "x_value": "04/2024",
-        "y_value": 79.44,
+        "y_value": 79.43,
         "group_value": "EU"
     },
     {
         "x_value": "05/2024",
-        "y_value": 73.75,
+        "y_value": 72.59,
         "group_value": "EU"
     },
     {
         "x_value": "06/2024",
-        "y_value": 81.18,
+        "y_value": 82.13,
         "group_value": "EU"
     },
     {
         "x_value": "07/2024",
-        "y_value": 79.33,
+        "y_value": 79.95,
         "group_value": "EU"
     },
     {
         "x_value": "08/2024",
-        "y_value": 79.82,
+        "y_value": 80.42,
         "group_value": "EU"
     },
     {
         "x_value": "09/2024",
-        "y_value": 80.59,
+        "y_value": 81.43,
         "group_value": "EU"
     },
     {
         "x_value": "10/2024",
-        "y_value": 78.97,
+        "y_value": 79.03,
         "group_value": "EU"
     },
     {
         "x_value": "11/2024",
-        "y_value": 89.87,
+        "y_value": 90.66,
         "group_value": "EU"
     },
     {
         "x_value": "12/2024",
-        "y_value": 89.12,
+        "y_value": 88.56,
         "group_value": "EU"
     },
     {
         "x_value": "01/2025",
-        "y_value": 84.3,
+        "y_value": 84.46,
         "group_value": "EU"
     },
     {
         "x_value": "02/2025",
-        "y_value": 95.71,
+        "y_value": 95.99,
         "group_value": "EU"
     },
     {
         "x_value": "03/2025",
-        "y_value": 82.81,
+        "y_value": 82.11,
         "group_value": "EU"
     },
     {
         "x_value": "04/2025",
-        "y_value": 75.78,
+        "y_value": 75.22,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "05/2025",
+        "y_value": 74.06,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "06/2025",
+        "y_value": 49.57,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "07/2025",
+        "y_value": 33.29,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "08/2025",
+        "y_value": 34.07,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "09/2025",
+        "y_value": 35.94,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "10/2025",
+        "y_value": 60.09,
+        "group_value": "EU"
+    },
+    {
+        "x_value": "11/2025",
+        "y_value": 81.15,
         "group_value": "EU"
     }
 ]
